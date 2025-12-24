@@ -1,4 +1,3 @@
-````
 # RESTful Task Manager API
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
@@ -67,7 +66,7 @@ This API follows **REST principles**, modular design, and clean separation of co
 
 ## 🗂 Project Structure
 
-```text
+```
 RESTful_API-task-manager/
 ├─ config/
 │  └─ db.js
@@ -252,5 +251,4 @@ This project is licensed under the **MIT License**.
 
 Built with ❤️ for backend engineering growth and portfolio demonstration.
 
-Just say the word.
 ```
