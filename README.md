@@ -11,23 +11,6 @@ This project demonstrates clean backend architecture, authentication, database m
 
 ---
 
-## 📑 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Environment Variables](#environment-variables)
-- [API Endpoints](#api-endpoints)
-- [Authentication](#authentication)
-- [Example Requests](#example-requests)
-- [Future Improvements](#future-improvements)
-- [Live Link](#live-link)
-- [License](#license)
-
----
-
 ## 📌 Overview
 
 The **RESTful Task Manager API** allows users to:
@@ -256,5 +239,3 @@ This project is licensed under the **MIT License**.
 ### 👨‍💻 Author
 
 Built with ❤️ for backend engineering growth and portfolio demonstration.
-
-```
