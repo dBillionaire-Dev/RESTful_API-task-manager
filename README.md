@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 A **RESTful backend API** built with **Node.js**, **Express**, and **MongoDB**.  
-This project demonstrates clean backend architecture, authentication, database modeling, and API best practices — suitable for portfolio and real-world use.
+This project demonstrates clean backend architecture, authentication, database modeling, and API best practices, suitable for portfolio and real-world use.
 
 ---
 
@@ -23,6 +23,7 @@ This project demonstrates clean backend architecture, authentication, database m
 - [Authentication](#authentication)
 - [Example Requests](#example-requests)
 - [Future Improvements](#future-improvements)
+- [Live Link](#live-link)
 - [License](#license)
 
 ---
@@ -127,7 +128,7 @@ Create a `.env` file in the project root:
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-JWT_EXPIRES=1d
+JWT_EXPIRES=7d
 ```
 
 > ⚠️ Never commit `.env` files to version control.
@@ -238,6 +239,11 @@ Content-Type: application/json
 * Pagination & filtering
 * Input validation with Joi/Zod
 * Automated tests (Jest + Supertest)
+
+---
+
+## 📄 Live Link
+This project is hosted live on **Render(https://restful-api-task-manager.onrender.com)**
 
 ---
 
